@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Mini CRM</title>
+
+  <link rel="stylesheet" href="t2.css">
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>🚀 Mini CRM</h1>
+
+    <div class="form-box">
+
+      <input
+        type="text"
+        id="name"
+        placeholder="Client Name"
+      >
+
+      <input
+        type="email"
+        id="email"
+        placeholder="Client Email"
+      >
+
+      <select id="status">
+
+        <option>New</option>
+
+        <option>Contacted</option>
+
+      </select>
+
+      <textarea
+        id="notes"
+        placeholder="Notes"
+      ></textarea>
+
+      <button onclick="addLead()">
+        Add Lead
+      </button>
+
+    </div>
+
+    <div
+      id="leadsContainer"
+      class="leads-container"
+    ></div>
+
+  </div>
+
+  <script src="t2.js"></script>
+
+</body>
+
+</html>
