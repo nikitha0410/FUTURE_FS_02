@@ -9,7 +9,7 @@ The project helps businesses manage customer leads, update lead status, and orga
 # 🚀 Live Website
 Add your live website link here:
 
-http://127.0.0.1:5500/frontend/t2.html
+https://nikitha0410.github.io/FUTURE_FS_02/
 
 ---
 
