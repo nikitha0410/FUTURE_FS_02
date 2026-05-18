@@ -58,11 +58,11 @@ It helps businesses organize and monitor client interactions professionally.
 ---
 
 # 📧 Contact
-Email: nikitaj0410@gmail.com
+Email: nikithaj0410@gmail.com
 
 ---
 
 # 👩‍💻 Developed By
-nikitha
+Nikitha
 
 Future Interns – Full Stack Web Development Internship
