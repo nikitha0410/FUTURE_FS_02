@@ -42,7 +42,7 @@ https://github.com/nikitha0410/FUTURE_FS_02
 
 # 📸 Screenshots
 
-![CRM Screenshot](images/crm.png)
+minicrm.jpeg
 
 ---
 
