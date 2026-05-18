@@ -1,101 +1,68 @@
-# 🚀 Mini CRM - Task 2
+# 📊 Client Lead Management System (Mini CRM)
 
-## 📌 Project Overview
+This is a Client Lead Management System (Mini CRM) developed as part of my Full Stack Web Development Internship at Future Interns.
 
-Mini CRM is a simple Customer Relationship Management web application built using Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript.
-
-This application helps manage customer leads by storing:
-
-* Client Name
-* Email
-* Lead Status
-* Notes
+The project helps businesses manage customer leads, update lead status, and organize follow-ups efficiently.
 
 ---
 
-## ✨ Features
+# 🚀 Live Website
+Add your live website link here:
 
-✅ Add New Leads
-✅ Update Lead Status
-✅ Delete Leads
-✅ Store Client Notes
-✅ MongoDB Database Integration
-✅ Responsive User Interface
+http://127.0.0.1:5500/frontend/t2.html
 
 ---
 
-## 🛠 Technologies Used
-
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* HTML
-* CSS
-* JavaScript
+# 📂 GitHub Repository
+https://github.com/nikitha0410/FUTURE_FS_02
 
 ---
 
-## 📂 Project Structure
-
-TASK2/
-│
-├── backend/
-│   ├── server.js
-│   └── models/
-│       └── Lead.js
-│
-├── frontend/
-│   ├── t2.html
-│   ├── t2.css
-│   └── t2.js
-│
-├── package.json
-├── package-lock.json
-├── .gitignore
-└── README.md
+# ✨ Features
+- Add New Leads
+- View Lead Details
+- Update Lead Status
+- Delete Leads
+- Lead Management Dashboard
+- Responsive Modern UI
+- Easy Navigation
+- Mobile Responsive Design
 
 ---
 
-## ⚙️ Installation & Setup
-
-### Step 1: Install Dependencies
-
-npm install
-
-### Step 2: Run Backend Server
-
-node backend/server.js
-
-### Step 3: Open Frontend
-
-Open:
-frontend/t2.html
-
-using Live Server in VS Code.
+# 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
 
 ---
 
-## 🌐 MongoDB Connection
+# 📸 Screenshots
 
-Connection String:
-mongodb://127.0.0.1:27017
-
-Database Name:
-minicrm
+![CRM Screenshot](images/crm.png)
 
 ---
 
-## 🎯 Future Improvements
+# 🎯 Purpose of This Project
+This Mini CRM system was developed to:
+- Manage customer leads efficiently
+- Track lead status and follow-ups
+- Improve business workflow
+- Practice full stack web development concepts
 
-* User Authentication
-* Search Functionality
-* Dashboard Analytics
-* React Frontend
-* Cloud Deployment
+It helps businesses organize and monitor client interactions professionally.
 
 ---
 
-## 👩‍💻 Author
+# 📧 Contact
+Email: nikitaj0410@gmail.com
 
-Nikitha jakkula
+---
+
+# 👩‍💻 Developed By
+nikitha
+
+Future Interns – Full Stack Web Development Internship
